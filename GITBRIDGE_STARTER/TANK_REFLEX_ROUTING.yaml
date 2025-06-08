@@ -1,0 +1,9 @@
+
+# Reflex Routing Table – Codex Integration Enabled
+
+glyph_triggers:
+  ☉🧠⭕↺:
+    action: codex_sync
+    bind_to: CODEX_REFLEX_INTERFACE
+    description: Trigger Codex macros from CEUY node reflex
+    live_route: true
