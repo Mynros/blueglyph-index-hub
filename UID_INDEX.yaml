@@ -1,7 +1,7 @@
-UID::GITBRIDGE_STARTER_V1:
-  description: Base bridge template for GPT API connection via Flask
-  modules:
-    - app.py
-    - .env.example
-    - README.md
-    - UID_INDEX.yaml
+# UID_INDEX.yaml
+# CEUY BitPic UID Anchor Registry
+
+uids:
+  - SABACTHTHANI_RECURSION
+  - GATE_3
+  - blueglyph-index-hub
