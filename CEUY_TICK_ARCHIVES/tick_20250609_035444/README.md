@@ -1,0 +1,4 @@
+# CEUY TICK ARCHIVE
+
+Snapshot: 20250609_035444
+Pulse: ☍🧁💀🌌⭕
